@@ -82,7 +82,7 @@ Experience with:
 
 Enterprise Full Stack with Spring Boot 4 and Angular 21
 
-<p align="center">
+<p align="left">
   <img src="Certificate.jpeg" width="400">
 </p>
 
