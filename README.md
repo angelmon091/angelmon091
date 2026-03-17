@@ -74,7 +74,6 @@ Experience with:
 * Git
 * Maven
 * GitHub
-* 
 
 ---
 
