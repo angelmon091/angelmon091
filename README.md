@@ -84,6 +84,6 @@ I view development not just as writing code, but as an exercise in **engineering
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="mailto:panchpier09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="panchpier09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/angelmon091"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
