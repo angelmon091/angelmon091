@@ -12,7 +12,7 @@ Full Stack Developer focused on Backend. My primary environment is <b>macOS</b>,
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">Tech Stack & Tools</h3>
 
 <p align="center"><b>Backend (Core Skills)</b></p>
 <p align="center">
@@ -50,7 +50,7 @@ Full Stack Developer focused on Backend. My primary environment is <b>macOS</b>,
 
 ---
 
-<h3 align="center">🔭 Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
 * **[Full Stack Booking System](https://github.com/angelmon091/Fullstack-Booking-System-Spring-Boot-Angular-PostgreSQL.git)**: Comprehensive reservation system built with **Spring Boot** and **Angular**, featuring advanced persistence with **PostgreSQL**.
 * **[DiabTrack System](https://github.com/angelmon091/DiabTrack-System-Laravel-Blade-MySQL.git)**: Dynamic web application with Server-Side Rendering (SSR) using **Laravel Blade** and relational databases.
@@ -59,7 +59,7 @@ Full Stack Developer focused on Backend. My primary environment is <b>macOS</b>,
 
 ---
 
-<h3 align="center">🚀 Roadmap & Learning Path</h3>
+<h3 align="center">Roadmap & Learning Path</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -76,13 +76,13 @@ Full Stack Developer focused on Backend. My primary environment is <b>macOS</b>,
 
 I view development not just as writing code, but as an exercise in **engineering and efficiency**. My technical approach is based on three fundamental pillars:
 
-* **⚡ Efficiency is Key:** As an advanced user of **macOS**, **Linux**, and **Vim**, I prioritize performance in both my workspace and the code I deliver. I automate processes and leverage terminal tools to maximize productivity.
-* **🛠️ Robustness & Architecture:** I focus on building solid, maintainable foundations. Whether using **Java/Spring** or **PHP/Laravel**, my goal is to deliver scalable software that supports business logic without becoming fragile.
-* **📚 Pragmatic Learning:** My roadmap toward **AWS, React, and Node.js** is utility-driven. I learn new technologies based on practical application to solve real-world problems with the best tools available.
+* **Efficiency is Key:** As an advanced user of **macOS**, **Linux**, and **Vim**, I prioritize performance in both my workspace and the code I deliver. I automate processes and leverage terminal tools to maximize productivity.
+* **Robustness & Architecture:** I focus on building solid, maintainable foundations. Whether using **Java/Spring** or **PHP/Laravel**, my goal is to deliver scalable software that supports business logic without becoming fragile.
+* **Pragmatic Learning:** My roadmap toward **AWS, React, and Node.js** is utility-driven. I learn new technologies based on practical application to solve real-world problems with the best tools available.
 
 ---
 
-<h3 align="center">📫 Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="mailto:panchpier09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/angelmon091"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
