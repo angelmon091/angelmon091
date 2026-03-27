@@ -20,10 +20,13 @@ Backend Developer con enfoque Full Stack. Mi entorno principal es **macOS**, per
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center"><b>Database & Cloud</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
 #### **Frontend & UI**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -36,15 +39,16 @@ Backend Developer con enfoque Full Stack. Mi entorno principal es **macOS**, per
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-E9431C?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ---
 
 ### 🔭 Proyectos Destacados
 
-* **[Full Stack Booking System](tu-link)**: Sistema de reservas con **Spring Boot** y **Angular**, utilizando persistencia avanzada con **MySQL/PostgreSQL**.
-* **[Laravel & Blade Project](tu-link)**: Aplicación web dinámica con renderizado del lado del servidor (SSR) y bases de datos relacionales.
+* **[Full Stack Booking System](https://github.com/angelmon091/Fullstack-Booking-System-Spring-Boot-Angular-PostgreSQL.git)**: Sistema de reservas con **Spring Boot** y **Angular**, utilizando persistencia avanzada con **MySQL/PostgreSQL**.
+* **[Laravel & Blade Project](https://github.com/angelmon091/DiabTrack-System-Laravel-Blade-MySQL.git)**: Aplicación web dinámica con renderizado del lado del servidor (SSR) y bases de datos relacionales.
 * **[IoT Stabilization System](tu-link)**: Control de hardware con ESP32 y Raspberry Pi sobre Linux.
-* **[Task Reminder App](tu-link)**: App nativa en **Kotlin** con persistencia local mediante SQLite.
+* **[Task Reminder App](https://github.com/angelmon091/RapiTask-Android-Task-Management-Kotlin-MVVM.git)**: App nativa en **Kotlin** con persistencia local mediante SQLite.
 
 ---
 
