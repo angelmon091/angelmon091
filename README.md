@@ -38,7 +38,7 @@ Full Stack Developer focused on Backend. My primary environment is <b>macOS</b>,
   <img src="https://img.shields.io/badge/Laravel_Blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 <p align="center"><b>Systems & Tooling</b></p>
