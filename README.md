@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Main_OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Editor-Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
-  <img src="https://img.shields.io/badge/Main_Stack-FullStack_Java_&_Laravel-blue?style=for-the-badge" alt="Main Stack">
+  <img src="https://img.shields.io/badge/Main_Stack-FullStack_Laravel-blue?style=for-the-badge" alt="Main Stack">
 </p>
 
 <p align="center">
