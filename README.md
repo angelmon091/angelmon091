@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Full Stack Developer focused on Backend. My primary environment is <b>macOS</b>, but I am an enthusiast of <b>Arch Linux's</b> power and <b>Debian/Ubuntu Server's</b> stability. My workflow is 100% terminal-centric powered by <b>Vim</b>.
+Student by day, Full Stack Developer by night . Backend enthusiast. Coding from my macOS terminal with Vim, while spending my spare time with Arch and Debian.
 </p>
 
 ---
