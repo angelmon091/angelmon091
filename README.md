@@ -71,6 +71,7 @@ Student by day, Full Stack Developer by night . Backend enthusiast. Coding from 
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-025669?style=for-the-badge&logo=Azure&logoColor=white">
 </p>
 
 ---
