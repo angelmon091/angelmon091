@@ -64,6 +64,8 @@ Student by day, Full Stack Developer by night . Backend enthusiast. Coding from 
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/express.js-ffffff.svg?style=for-the-badge&logo=Express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/mongoDB-%ffffff.svg?style=for-the-badge&logo=MongoDB&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
