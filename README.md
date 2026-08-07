@@ -59,7 +59,7 @@ Student by day, Full Stack Developer by night. Backend enthusiast. Coding from m
 <h3 align="center">Featured Projects</h3>
 
 * **[Full Stack Booking System](https://github.com/angelmon091/Fullstack-Booking-System-Spring-Boot-Angular-PostgreSQL.git)**: Reservation system with Spring Boot, Angular and PostgreSQL.
-* **[DiabTrack System](https://github.com/angelmon091/DiabTrack-System-Laravel-Blade-MySQL.git)**: Health-tracking web app with Laravel , PostgresSQL, React.js ,MVC architecure.
+* **[DiabTrack System](https://github.com/angelmon091/DiabTrack-System-Laravel-React-PostgreSQL)**: Health-tracking web app with Laravel , PostgresSQL, React.js ,MVC architecure.
 * **[IoT Projects](https://github.com/angelmon091/Line-Followers-1.0)**: Hardware control with ESP32 , Raspberry Pi, Microcontrollers and PCB Design, 
 * **[RapiTask Android](https://github.com/angelmon091/RapiTask-Android-Task-Management-Kotlin-MVVM.git)**: Native Kotlin app with SQLite (Room) and MVVM.
 
